@@ -19,11 +19,11 @@ const noCors = { "mode": "no-cors" };
 const apiEndpoint = "http://localhost:8888";
 */
 
-const apiEndpoint = "";
+const apiEndpoint = ".";
 
 export const getLanguage = () => {
 	const lang = /^\w+/.exec(navigator.language)[0];
-	return fetch(`/translations/lang.${lang}.json`/*, { ...noCors }*/)
+	return fetch(`./translations/lang.${lang}.json`/*, { ...noCors }*/)
 		.then(res => res.json())
 		.then(json => json)
 };
@@ -35,7 +35,7 @@ export const getTemplate = (templateId) => {
 };
 
 export const getComponents = () => {
-	return fetch(new Request(`/components.json`/*, { ...noCors }*/))
+	return fetch(new Request(`./components.json`/*, { ...noCors }*/))
 		.then(res => res.json())
 		.then(json => json)
 };
