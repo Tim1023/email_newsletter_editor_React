@@ -1,0 +1,185 @@
+{
+  "template": [
+    {
+      "id": 1491998309942,
+      "block_type": "text",
+      "options": {
+        "container": {
+          "color": "#878dc3",
+          "fontFamily": "Helvetica, Arial, sans-serif",
+          "fontSize": "12px",
+          "fontWeight": "normal",
+          "textDecoration": "underline",
+          "textAlign": "right",
+          "paddingTop": "10px"
+        },
+        "elements": [
+          {
+            "text": "View this email in your browser"
+          }
+        ]
+      }
+    },
+    {
+      "id": 1491998309943,
+      "block_type": "image",
+      "options": {
+        "container": {
+          "padding": "10px",
+          "color": "#333333",
+          "backgroundColor": "#FFFFFF"
+        },
+        "elements": [
+          {
+            "width": "550px",
+            "source": "http://cdn.wonderfulengineering.com/wp-content/uploads/2014/05/twitter-header-photo-25-610x203.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": 1491998309944,
+      "block_type": "header",
+      "options": {
+        "container": {
+          "margin": 0,
+          "padding": 0,
+          "paddingBottom": "2px",
+          "display": "block",
+          "fontFamily": "Helvetica, arial, sans-serif",
+          "fontSize": "28px",
+          "fontStyle": "normal",
+          "fontWeight": "300",
+          "lineHeight": "125%",
+          "letterSpacing": "-.75px",
+          "color": "#bbaed3",
+          "textAlign": "left",
+          "borderBottom": "2px solid",
+          "borderBottomColor": "currentColor"
+        },
+        "elements": [
+          {
+            "text": "This month on Trends"
+          }
+        ]
+      }
+    },
+    {
+      "id": 1491998309945,
+      "block_type": "text",
+      "options": {
+        "container": {
+          "padding": "10px",
+          "color": "#333333",
+          "fontSize": "16px",
+          "backgroundColor": "#FFFFFF"
+        },
+        "elements": [
+          {
+            "text": "We have some new functions to tell you about, some hints and tips to help you find your way around Trendsideas.com You will also find a gallery highlighting some of the best products available in the market if you are looking at renovating or installing a new kitchen."
+          }
+        ]
+      }
+    },
+    {
+      "id": 1491998309845,
+      "block_type": "text",
+      "options": {
+        "container": {
+          "textAlign": "right",
+          "margin": 0,
+          "marginTop": "10px",
+          "padding": "0 10px",
+          "margin": 0,
+          "marginTop": "10px",
+          "fontFamily": "Helvetica, arial, sans-serif",
+          "fontSize": "16px",
+          "fontStyle": "normal;line-height: 130%",
+          "textDecoration": "none;color: #878dc3",
+          "paddingBottom": "2px",
+          "color": "#878dc3"
+        },
+        "elements": [
+          {
+            "text": "Read more"
+          }
+        ]
+      }
+    },
+    {
+      "id": 1491998309844,
+      "block_type": "header",
+      "options": {
+        "container": {
+          "margin": 0,
+          "padding": 0,
+          "paddingBottom": "2px",
+          "display": "block",
+          "fontFamily": "Helvetica, arial, sans-serif",
+          "fontSize": "28px",
+          "fontStyle": "normal",
+          "fontWeight": "300",
+          "lineHeight": "125%",
+          "letterSpacing": "-.75px",
+          "color": "#bbaed3",
+          "textAlign": "left",
+          "borderBottom": "2px solid",
+          "borderBottomColor": "currentColor"
+        },
+        "elements": [
+          {
+            "text": "Online Features"
+          }
+        ]
+      }
+    },
+    {
+      "id": 1491998309846,
+      "block_type": "text",
+      "options": {
+        "container": {
+          "margin": 0,
+          "marginTop": "15px",
+          "padding": 0,
+          "display": "block",
+          "fontFamily": "Helvetica, arial, sans-serif",
+          "fontSize": "22px",
+          "fontStyle": "normal",
+          "fontWeight": "500",
+          "lineHeight": "125%",
+          "letterSpacing": "-.75px",
+          "color":"#111111",
+          "textAlign": "left"
+        },
+        "elements": [
+          {
+            "text": "Want to upload images that are too large?"
+          }
+        ]
+      }
+    },
+    {
+      "id": 1491998309946,
+      "block_type": "image_text",
+      "options": {
+        "container": {
+          "padding": "10px",
+          "color": "#333333",
+          "fontSize": "16px",
+          "backgroundColor": "#FFFFFF"
+        },
+        "elements": [
+          {
+            "width": "275px",
+            "float": "left",
+            "source": "https://www.w3schools.com/css/trolltunga.jpg"
+          },
+          {
+            "width": "275px",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eu felis sit amet justo ullamcorper malesuada vitae nec odio. Duis suscipit, ligula in sollicitudin luctus, turpis purus bibendum lorem, in blandit nibh ipsum sit amet dui. Mauris nibh quam, commodo at ligula nec, volutpat euismod risus. Morbi nec nibh enim."
+          }
+        ]
+      }
+    }
+  ]
+}
